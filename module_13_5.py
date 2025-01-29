@@ -6,7 +6,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 import asyncio
-api = '7314899914:AAHcsc1SyUJccc3bK3jNxYvAkCdAfC8fxas'
+api = '!!!!!!!!!!'
 bot = Bot(token=api)
 dp = Dispatcher()
 router = Router()
